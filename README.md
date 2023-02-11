@@ -1,1 +1,1 @@
-# Image_classification
+Performed the image classification using artificial neural network and acheived a accuracy of 86%.Worked on the fashion MNIST dataset and did classification of greyscale images which has a pixel range of 0 to 255.
